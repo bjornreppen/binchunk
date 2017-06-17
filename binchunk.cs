@@ -15,7 +15,7 @@ Example: BinChunk foo.cue foo
 
         static readonly string VersionString = @"BinChunker for .net, v" +
                                         System.Reflection.Assembly.GetExecutingAssembly().GetName().Version +
-                                        @" by Bj�rn Reppen <clause@online.no>
+                                        @" by Bjorn Reppen <bjreppen@gmail.com>
 	Ported from bchunk for Unix, Heikki Hannikainen <hessu@hes.iki.fi>
 	Released under the GNU GPL, version 2 or later (at your option)." + Environment.NewLine + Environment.NewLine;
 
