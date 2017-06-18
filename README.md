@@ -6,6 +6,8 @@ binchunker converts a CD image in a ".bin / .cue" format (sometimes ".raw / .cue
 
 This is a .net rewrite of the fine [bchunk software](http://he.fi/bchunk/).
 
+*BEWARE: This code was written in or before the year 2003..*
+
 ## What on earth is this stuff
 
 The .iso track contains an ISO file system, which can be mounted through a loop device on Linux systems, or written on a CD-R using cdrecord. The .cdr tracks are in the native CD audio format. They can be either written on a CD-R using cdrecord -audio, or converted to WAV (or any other sound format for that matter) using sox. bchunk 1.1.0 (and later versions) can also output audio tracks in WAV format.
