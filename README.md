@@ -6,7 +6,7 @@ binchunker converts a CD image in a ".bin / .cue" format (sometimes ".raw / .cue
 
 This is a .net rewrite of the fine [bchunk software](http://he.fi/bchunk/).
 
-*BEWARE: This code was written in or before the year 2003..*
+*BEWARE: This code was written in or before the year 2002..*
 
 ## What on earth is this stuff
 
