@@ -1,4 +1,5 @@
 ﻿# BinChunker for .Net
+[![Build Status](https://travis-ci.org/Mashi/binchunk.svg?branch=master)](https://travis-ci.org/Mashi/binchunk)
 
 Copyleft 2002 Bjorn Reppen <bjreppen@gmail.com>
 
